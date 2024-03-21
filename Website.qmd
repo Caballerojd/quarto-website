@@ -8,7 +8,7 @@ toc-title: ""
 editor: visual
 ---
 
-<center><img src="C:\Users\57301\Documents\Primera clase R\foto.PNG" width="20%/"/></center>
+<center><img src="Images/foto.PNG" width="20%/"/></center>
 
 
 ## About
