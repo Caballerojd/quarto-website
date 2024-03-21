@@ -1,0 +1,45 @@
+---
+title: "Jesus D. Caballero Calderon"
+format: html
+self-contained: True 
+toc: true
+toc-title: ""
+#theme: darkly
+editor: visual
+---
+
+<center><img src="C:\Users\57301\Documents\Primera clase R\foto.PNG" width="20%/"/></center>
+
+
+## About
+I am Msc. student structural engineering at [Universidad del Norte](https://www.uninorte.edu.co/), Barranquilla, Colombia.
+Currently, I am working on the Colombian Seismic Risk Model and on assessing risk variation when using alternative intensity measures, such as Average spectral acceleration, AvgSA, under the supervision of Professor [Carlos Arteta](https://scholar.google.es/citations?user=t-xHI9oAAAAJ&hl=es&oi=ao).
+My research interests include seismic hazard, seismic risk, and risk in masonry and reinforced concrete structures. <br> You can contact me by [email](mailto:caballerojd@uninorte.edu.co).
+
+<br>
+
+## Research 
+1. Estimation of exposure model in cities of the Colombian Caribbean such as Barranquilla, Soledad, and Valledupar.
+
+2. Estimation of seismic risk in cities of the Colombian Caribbean such as Barranquilla, Soledad, Valledupar, and Santa Marta.
+
+3. Fatigue analysis of welded wire mesh used in Colombian construction.
+
+## Publications 
+### Conference Papers 
+1. Gomez, D., Orjuela, J., Rivera, J., **Caballero, J.**, varcarcel, J., Arteta, C., Cantillo, V., Coronell, G. (2022, 15-17 de junio). Development of a seismic exposure model of cities in the caribbean of Colombia. Case: Soledad, Atlantico. X Congreso Nacional de Ingenieria Sísmica, Bogota, Colombia. 
+
+### Technical Report 
+1. Miranda, E., V. Abuchar, S. Alcocer, S. Aldea, J. Álvarez, J. Archbold, O. Arroyo, C. Arteta, E. Ballinas, D. Benavides, C. Blandón, M. Bravo, **J. Caballero**, J. Carrillo, C. Cruz, U. Espinoza, P. Gil, H. Guerrero, S. Gunay, P. Heresi, C. Lubin, J. Mayoral, S. Miranda, C. Pájaro, C. Piscal, J. Rivera, V. Rodríguez, A. Urango, J. Vargas, L. Velasco. (2022) "PRELIMINARY VIRTUAL RECONNAISSANCE REPORT (PVRR)", in AQUILA, MICHOACÁN, MEXICO SEPTEMBER 19, 2022, Mw 7.6 EARTHQUAKE. [DesignSafe-CI](https://www.designsafe-ci.org). [https://doi.org/10.17603/ds2-sbcj-nx44 v1](https://www.designsafe-ci.org/data/browser/public/designsafe.storage.published/PRJ-3708/#details-2184907380584214035-242ac118-0001-012) 
+
+<br><br><br><br>
+
+<center>
+
+<hr>
+
+Copyright ® 2024, webpage made with [RStudio](https://posit.co/products/open-source/rstudio/) and [Quarto](https://quarto.org/).
+
+<hr>
+
+</center> 
